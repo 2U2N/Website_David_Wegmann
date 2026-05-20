@@ -1,0 +1,18 @@
+---
+title: "David Wegmann"
+subtitle: "PhD student, Aarhus University"
+---
+
+<!-- TODO: Replace placeholder text and links before publishing. Keep only public information on this site. -->
+
+::: {.home-intro}
+::: {.intro-text}
+I study YouTube, social media influence, information disorders, and platform effects using data donation, platform data, and survey data.
+
+I am a PhD student at Aarhus University's DATALAB working in computational communication science. My research examines how digital platforms shape public communication, influence, and democratic information environments, with a particular focus on YouTube, social media, the Danish public sphere, and methods for responsibly studying platform behavior at scale.
+:::
+
+::: {.profile-photo-wrapper}
+![Portrait of David Wegmann](<images/Screenshot 2026-03-10 at 17.44.13.png>){.profile-photo}
+:::
+:::

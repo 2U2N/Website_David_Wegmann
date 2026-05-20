@@ -1,0 +1,94 @@
+---
+title: "David Wegmann"
+subtitle: "Curriculum Vitae"
+bibliography: My_Publications.bib
+nocite: '@*'
+citeproc: true
+format:
+  typst:
+    toc: false
+    papersize: a4
+    fontsize: 10pt
+    margin:
+      x: 1.8cm
+      y: 1.8cm
+---
+
+<!--
+Editable source for files/cv.pdf.
+Keep only public CV information here. Do not include participant data, private reports,
+internal drafts, credentials, or restricted institutional details.
+
+To update the public PDF:
+1. Edit this file.
+2. Run: quarto render cv-source.qmd --to typst --output cv.pdf
+3. Run: mv cv.pdf files/cv.pdf
+4. Run: quarto render
+-->
+
+**PhD student, Aarhus University**  
+**DATALAB - Center for Digital Social Research**  
+**Department of Media and Journalism Studies**
+
+Aarhus University  
+Helsingforsgade 14  
+ICT-City, 8200 Aarhus, Denmark  
+Email: [david.wegmann@cc.au.dk](mailto:david.wegmann@cc.au.dk)
+
+## Professional Career
+
+- **2026** - Research assistant, full time 
+  DATALAB, Aarhus University, Aarhus, Denmark. Development of report for the Danish Ministiry of Digital Affairs
+
+- **2023-present** - PhD Student, full-time  
+  DATALAB, Aarhus University, Aarhus, Denmark. 
+
+- **2025** - Fellowship
+  Digital News Dynamics Group, Weizenbaum Institute, Berlin, Germany.
+
+- **2023** - Assistant Lecturer, part-time
+  University of Copenhagen, Denmark.
+
+- **2022-2023** - Research Assistant, full-time  
+  HCDS Group, IT University, Copenhagen, Denmark. Focus: online videos and data visualization.
+
+- **2016-2019** - Video Producer, full-time  
+  Label Software Gerald Bax GmbH, Bielefeld, Germany. Focus: media relations and tutorial production.
+
+## Education
+
+- **2019-2022** - Master of Arts, Cognition and Communication  
+  University of Copenhagen, Denmark. Thesis: *Experimental- and survey-research on online videos: The credibility effects of production value and cognitive processing fluency*.
+
+- **2012-2019** - Bachelor of Science, Biology major and Linguistics minor  
+  University of Bielefeld, Germany.
+
+## Teaching Experience
+
+- **2024-2025** - Lecturer: Research Design and Methods: Casestudies
+  Aarhus University, Denmark. Part of teaching team for Master-level digital methods courses
+
+- **2023** - Lecturer Communication Theory and Research Design
+  University of Copenhagen, Denmark. Part of teaching team for Master-level course
+
+- **2023-2025** - Special Paedagogical Support, voluntary activity  
+  IT University, Copenhagen, Denmark. Advising students with special needs.
+
+- **2020** - Tutor, voluntary activity  
+  University of Copenhagen, Copenhagen, Denmark. Guidance the new year of Cognition and Communication students.
+
+## Grants and Contracts
+
+- **2026** - Awarded contract, independent study  
+  Ministry of Digital Affairs, Denmark: *Tech Giants' Influence on Democracy, Well-Being, and Social Cohesion in Denmark*. Responsible for DATALAB's contribution as part of the consortium selected to deliver the Ministry-commissioned independent report for 2026.
+
+- **2025** -  Travel grants
+  William Demant Fonden: Awarded funding to support international research mobility during the PhD, including a study exchange at the Weizenbaum Institute in Berlin and conference participation at CompText 2026 in Birmingham.
+
+- **2022** - Foundational Integrity Grant  
+  Meta Platforms Inc.: *Investigating Persuasiveness of Contextualized Disinformation Across Media*. Spearheaded the conceptualization and development of the research proposal on behalf of the HCDS Group at IT University, Copenhagen.
+
+## Publications
+
+::: {#refs}
+:::

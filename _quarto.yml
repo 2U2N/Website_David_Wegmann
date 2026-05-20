@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+  # Render only website pages; cv-source.qmd is rendered separately to files/cv.pdf.
+  render:
+    - index.qmd
+    - projects.qmd
+    - publications.qmd
+    - cv.qmd
+    - contact.qmd
+  resources:
+    - "files/"
+    - "images/"
+
+website:
+  title: "David Wegmann"
+  description: "Personal academic website for David Wegmann, PhD student at Aarhus University."
+  # TODO: Update this after creating the GitHub repository.
+  site-url: "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/"
+  search: false
+  navbar:
+    title: "David Wegmann"
+    background: "#ffffff"
+    foreground: "#23272a"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "© David Wegmann"
+    right:
+      - text: "Aarhus University"
+        href: "https://international.au.dk/"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    lang: en
+    link-external-newwindow: true
+    anchor-sections: true

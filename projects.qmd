@@ -1,0 +1,32 @@
+---
+title: "Projects"
+---
+
+<!-- TODO: Replace these placeholders with public project descriptions, collaborators, funders, and links. Do not add private or unpublished materials unless they are intended for public release. -->
+
+This page will collect selected research projects, public-facing work, and ongoing academic activities.
+
+## PhD Project / Social Media Influence-Related Work
+
+**Status:** TODO: add status.
+
+TODO: Add a concise description of the PhD project or related social media influence work. Include the central research question, data sources, collaborators, and public outputs when available.
+
+## YouTube Data Donation Project
+
+**Status:** TODO: add status.
+
+TODO: Add a concise description of the YouTube data donation project. Mention what kind of data is studied, what the project aims to understand, and which public materials can be linked.
+
+## Policy-Facing Report Work
+
+**Status:** TODO: add status.
+
+TODO: Add public policy-facing reports, briefings, or research outputs when they are ready for public circulation. Do not include private institutional drafts or restricted reports.
+
+## Other Projects
+
+**Status:** TODO: add status.
+
+TODO: Add other collaborations, datasets, methodological work, teaching-related resources, or public scholarship.
+

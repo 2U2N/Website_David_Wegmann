@@ -1,0 +1,20 @@
+---
+title: "Publications"
+bibliography: My_Publications.bib
+nocite: '@*'
+---
+
+<!-- Publications are generated automatically from My_Publications.bib. -->
+
+::: {#refs .publications-list}
+:::
+
+&nbsp;
+
+## Talks
+
+2025 - **We, the EU, and 1064 Danes Decided to Look into YouTube**
+    Talk with LK Seiling at 39C3: 39th Chaos Communication Congress, Hamburg. Recording available via [media.ccc.de](https://media.ccc.de/v/39c3-we-the-eu-and-1064-danes-decided-to-look-into-youtube-a-story-about-how-the-eu-gave-us-a-law-1064-danes-gave-us-their-youtube-histories-and-reality-ga).
+
+2024 - **Deepfakes and Generative AI in the Digital Information Environment.**
+    Invited impulse talk, Siggener Begegnungen, Alfred Toepfer Stiftung F.V.S., Gut Siggen

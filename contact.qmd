@@ -1,0 +1,26 @@
+---
+title: "Contact"
+---
+
+<!-- TODO: Replace placeholder contact details with public information only. Do not add personal phone numbers or private addresses. -->
+
+## Affiliation
+
+David Wegmann  
+PhD student  
+[DATALAB - Center for Digital Social Research](https://datalab.au.dk)  
+[Department of Media and Journalism Studies](https://cc.au.dk/en/about-the-school/departments/media-and-journalism-studies/)  
+[Aarhus University](https://international.au.dk/)  
+
+## Contact Details
+
+- Email: [david.wegmann@cc.au.dk](mailto:david.wegmann@cc.au.dk)
+
+## Academic Profiles
+
+- [Aarhus University profile](https://www.au.dk/en/david.wegmann%40cc.au.dk/)
+- [Pure profile](https://pure.au.dk/portal/en/persons/david.wegmann%40cc.au.dk)
+- [ORCID](https://orcid.org/0000-0002-7372-9850)
+- [Google Scholar](https://scholar.google.com/citations?user=fSDCtb8AAAAJ&hl=en&oi=ao)
+- [GitHub](https://github.com/2U2N)
+- [LinkedIn](https://www.linkedin.com/in/david-wegmann/)

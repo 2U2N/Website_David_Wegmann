@@ -1,0 +1,49 @@
+# Quarto output and caches
+_site/
+.quarto/
+/.quarto/
+_freeze/
+*.typ
+
+# Local preview and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# R and Python local state
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Node and package-manager caches, if added later
+node_modules/
+.npm/
+.yarn/
+
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+
+# Keep private research materials out of the public website repository
+data/
+raw-data/
+private/
+private-reports/
+drafts/
+participant-data/
+
+
+**/*.quarto_ipynb

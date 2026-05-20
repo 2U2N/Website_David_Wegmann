@@ -1,0 +1,12 @@
+---
+title: "CV"
+---
+
+<!-- The PDF displayed here is generated locally from cv-source.qmd. -->
+
+::: {.quick-links}
+[Open PDF](files/cv.pdf){.button-link}
+:::
+
+<iframe class="pdf-viewer" src="files/cv.pdf" title="David Wegmann CV"></iframe>
+
