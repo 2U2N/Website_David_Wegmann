@@ -16,7 +16,7 @@ website:
   title: "David Wegmann"
   description: "Personal academic website for David Wegmann, PhD student at Aarhus University."
   # TODO: Update this after creating the GitHub repository.
-  site-url: "https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/"
+  site-url: "https://github.com/2U2N/Website_David_Wegmann/"
   search: false
   navbar:
     title: "David Wegmann"
