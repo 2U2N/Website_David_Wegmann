@@ -2,31 +2,17 @@
 title: "Projects"
 ---
 
-<!-- TODO: Replace these placeholders with public project descriptions, collaborators, funders, and links. Do not add private or unpublished materials unless they are intended for public release. -->
+## Enhancing YouTube Data Donations With Platform Metadata
 
-This page will collect selected research projects, public-facing work, and ongoing academic activities.
+**Status:** Public method demonstration
 
-## PhD Project / Social Media Influence-Related Work
+This project demonstrates how donated YouTube account data can be linked with video- and channel-level platform metadata to create enriched exposure histories. Using synthetic mock data, the workflow shows how researchers can move from Google Takeout-style watch, search, and subscription files to event-level indicators of YouTube use.
 
-**Status:** TODO: add status.
+The demonstration covers cleaning donated histories, extracting and joining YouTube video IDs, adding video and channel metadata, estimating watch time, identifying Shorts and Longs, distinguishing search- and subscription-linked watches, and flagging availability or potentially problematic-content signals.
 
-TODO: Add a concise description of the PhD project or related social media influence work. Include the central research question, data sources, collaborators, and public outputs when available.
+The project is intended for researchers working with data donation, platform accountability, journalism studies, media-use research, and computational social science.
 
-## YouTube Data Donation Project
-
-**Status:** TODO: add status.
-
-TODO: Add a concise description of the YouTube data donation project. Mention what kind of data is studied, what the project aims to understand, and which public materials can be linked.
-
-## Policy-Facing Report Work
-
-**Status:** TODO: add status.
-
-TODO: Add public policy-facing reports, briefings, or research outputs when they are ready for public circulation. Do not include private institutional drafts or restricted reports.
-
-## Other Projects
-
-**Status:** TODO: add status.
-
-TODO: Add other collaborations, datasets, methodological work, teaching-related resources, or public scholarship.
+::: {.quick-links}
+[Visit project website](https://2u2n.github.io/YouTube-donation-plus-dsa/){.button-link}
+:::
 
